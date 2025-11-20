@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Petshop - About</title>
+  <link rel="stylesheet" href="design.css">
+  <script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
+  <script src="code.js"></script>
+  <script src="mystocks.js"></script>
+</head>
+
+<body>
+  <div class="topbar">
+    <div class="nav-left">
+      <img src="petshop_logo.png" alt="Petshop Logo" class="logo">
+      <div class="nav-links">
+        <a href="contents.html">Home</a>
+        <a href="about.html">About</a>
+        <a href="products.html">Products</a>
+      </div>
+    </div>
+
+    <!-- 🧾 Cart Flyout Panel -->
+    <div id="cart-flyout" class="cart-flyout">
+      <div class="cart-header">
+        <h2>Your Cart</h2>
+        <button class="close-btn" onclick="toggleCartFlyout()">✖</button>
+      </div>
+      <div id="cart-items" class="cart-items"></div>
+      <div class="cart-footer">
+        <p><strong>Total:</strong> ₱<span id="cart-total">0.00</span></p>
+        <button class="checkout-btn">Checkout</button>
+      </div>
+    </div>
+
+    <!-- 🧾 Checkout Flyout (Centered Modal) -->
+    <div id="checkout-flyout" class="checkout-flyout centered">
+      <div class="checkout-header">
+        <h2>Order Summary</h2>
+        <button class="close-btn" onclick="toggleCheckoutFlyout()">✖</button>
+      </div>
+
+      <div id="checkout-items" class="checkout-items"></div>
+
+      <div class="checkout-summary">
+        <p><strong>Products Total:</strong> ₱<span id="checkout-products-total">0.00</span></p>
+        <p><strong>Shipping Fee:</strong> ₱70.00</p>
+        <hr>
+        <p><strong>Overall Total:</strong> ₱<span id="checkout-overall-total">0.00</span></p>
+        <button class="order-now-btn" onclick="orderNow()">Order Now</button>
+      </div>
+    </div>
+
+    <!-- Topbar section -->
+    <div class="account-section">
+      <a href="account.html" class="account-btn">My Account</a>
+      <div class="cart" onclick="toggleCartFlyout()">
+        <img src="cart.png" alt="Cart" class="cart-icon">
+        <span id="cartCount" class="cart-badge">0</span>
+      </div>
+    </div>
+  </div>
+
+  <div class="first-rec">
+    <img src="petshop_logo.png" alt="Logo">
+    <div class="first-rec-text">
+      <h1 id="first-rec-text1">Welcome to</h1>
+      <h1 id="first-rec-text2">Purrfect Petshop</h1>
+      <h4 id="first-rec-text3">Your one-stop shop for all your pet’s needs!</h4>
+    </div>
+  </div>
+
+  <div class="second-rec">
+    <div class="second-rec-firsttext">
+      <h1 id="second-rec-firsttext1">Get in Touch</h1>
+      <h4 id="second-rec-firsttext2">Address</h4>
+      <h4 id="second-rec-firsttext3">inayawan cebu city</h4>
+      <h4 id="second-rec-firsttext4">(Landmark: inayawan cebu city)</h4>
+      <h4 id="second-rec-firsttext5">Clinic Hours</h4>
+      <h4 id="second-rec-firsttext6">Monday to Sunday</h4>
+      <h4 id="second-rec-firsttext7">8:00AM to 5:00PM</h4>
+    </div>
+    <img src="pet_vet.jpg" alt="VETpets">
+    <div class="second-rec-sectext">
+      <h4 id="second-rec-sectext1">Contact Numbers</h4>
+      <h4 id="second-rec-sectext2">09728367821</h4>
+      <h4 id="second-rec-sectext3">09738263781</h4>
+      <h4 id="second-rec-sectext4">Emergency Hotline</h4>
+      <h4 id="second-rec-sectext5">(Outside Clinic Hours)</h4>
+      <h4 id="second-rec-sectext6">09637462819</h4>
+    </div>
+  </div>
+
+  <div class="third-col-pics">
+    <img id="third-col-pics1" src="vetpic1.jpg" alt="vet1">
+    <img id="third-col-pics2" src="vetpic2.jpg" alt="vet1">
+    <img id="third-col-pics3" src="vetpic3.jpg" alt="vet1">
+  </div>
+
+  <div class="third-col-text">
+    <div class="third-col-text1">
+      <h1>Veterinary</h1>
+      <h1>Services</h1>
+    </div>
+
+    <div class="third-col-text2">
+
+      <h1>•Consultation or Check-up</h1>
+      <h1>•Laboratory Tests</h1>
+      <h1>•Deworming and Vaccination</h1>
+      <h1>•Pet Pharmacy</h1>
+      <h1>•Digital Radiography (X-Ray)</h1>
+    </div>
+
+    <div class="third-col-text3">
+      <h1>•Admissions</h1>
+      <h1>•Microchipping</h1>
+      <h1>•Castration & Spay</h1>
+      <h1>•Other Surgical Procedures</h1>
+      <h1>•Emergency Services</h1>
+    </div>
+  </div>
+
+  <div class="fourth-col">
+    <div class="fourth-col-text">
+      <h1>Prevention is Better than Cure. Vaccinate Your Pet Today!</h1>
+      <p>Protect your furry family members with routine vaccinations that prevent serious diseases before they start.
+      </p>
+      <p>Our caring team is here to keep your pet healthy, happy, and safe every step of the way.</p>
+    </div>
+  </div>
+
+</body>
+
+</html>

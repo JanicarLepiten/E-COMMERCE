@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="design.css">
+    <script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
+    <script src="code.js"></script>
+    <script src="mystocks.js"></script>
+
+    <style>
+    body {
+      font-family: "Poppins", sans-serif;
+      background: linear-gradient(to bottom right, #ffe6f2, #e6f7ff);
+      margin: 0;
+      padding: 0;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+    }
+
+    .profile-card {
+      background: #fff;
+      border-radius: 25px;
+      box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1);
+      padding: 30px;
+      width: 330px;
+      text-align: center;
+      transition: transform 0.3s ease;
+    }
+
+    .profile-card:hover {
+      transform: scale(1.03);
+    }
+
+    .profile-pic {
+      width: 120px;
+      height: 120px;
+      border-radius: 50%;
+      object-fit: cover;
+      border: 5px solid #ffb6c1;
+      margin-bottom: 15px;
+    }
+
+    h2 {
+      color: #ff69b4;
+      margin: 10px 0 5px;
+      font-size: 22px;
+    }
+
+    p {
+      margin: 6px 0;
+      color: #555;
+      font-size: 15px;
+    }
+
+    .info {
+      background: #fdf3f8;
+      border-radius: 15px;
+      padding: 15px;
+      margin-top: 15px;
+    }
+
+    .info-item {
+      text-align: left;
+      margin-bottom: 8px;
+    }
+
+    .info-item span {
+      font-weight: bold;
+      color: #ff7eb9;
+    }
+  </style>
+</head>
+
+<body>
+    <div class="topbar">
+        <div class="nav-left">
+            <img src="petshop_logo.png" alt="Petshop Logo" class="logo">
+            <div class="nav-links">
+                <a href="contents.html">Home</a>
+                <a href="about.html">About</a>
+                <a href="products.html">Products</a>
+            </div>
+        </div>
+
+        <!-- 🧾 Cart Flyout Panel -->
+        <div id="cart-flyout" class="cart-flyout">
+            <div class="cart-header">
+                <h2>Your Cart</h2>
+                <button class="close-btn" onclick="toggleCartFlyout()">✖</button>
+            </div>
+            <div id="cart-items" class="cart-items"></div>
+            <div class="cart-footer">
+                <p><strong>Total:</strong> ₱<span id="cart-total">0.00</span></p>
+                <button class="checkout-btn">Checkout</button>
+            </div>
+        </div>
+
+        <!-- 🧾 Checkout Flyout (Centered Modal) -->
+        <div id="checkout-flyout" class="checkout-flyout centered">
+            <div class="checkout-header">
+                <h2>Order Summary</h2>
+                <button class="close-btn" onclick="toggleCheckoutFlyout()">✖</button>
+            </div>
+
+            <div id="checkout-items" class="checkout-items"></div>
+
+            <div class="checkout-summary">
+                <p><strong>Products Total:</strong> ₱<span id="checkout-products-total">0.00</span></p>
+                <p><strong>Shipping Fee:</strong> ₱70.00</p>
+                <hr>
+                <p><strong>Overall Total:</strong> ₱<span id="checkout-overall-total">0.00</span></p>
+                <button class="order-now-btn" onclick="orderNow()">Order Now</button>
+            </div>
+        </div>
+
+        <!-- Topbar section -->
+        <div class="account-section">
+            <a href="account.html" class="account-btn">My Account</a>
+            <div class="cart" onclick="toggleCartFlyout()">
+                <img src="cart.png" alt="Cart" class="cart-icon">
+                <span id="cartCount" class="cart-badge">0</span>
+            </div>
+        </div>
+    </div>
+
+    <div class="profile-card">
+    <img src="profile.jpg" alt="Profile Picture" class="profile-pic">
+    <h2>Doggy Cutiee</h2>
+    <p>✨ Cute and Confident ✨</p>
+
+    <div class="info">
+      <div class="info-item"><span>Address:</span> Cebu City, Philippines</div>
+      <div class="info-item"><span>Age:</span> 20</div>
+      <div class="info-item"><span>Gender:</span> Female</div>
+      <div class="info-item"><span>Contact:</span> 0912-345-6789</div>
+    </div>
+  </div>
+</body>
+
+</html>
