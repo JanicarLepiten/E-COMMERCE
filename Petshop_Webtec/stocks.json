@@ -1,0 +1,394 @@
+[
+  {
+    "name": "Goodboy Little Small Breed Adult Lamb and Beef Dry Dog Food 2kg",
+    "price": 379,
+    "category": "dog-food",
+    "image": "dogfood1.png",
+    "description": "Goodboy Little Small Breed Adult Dry Dog Food, flavored with Lamb and Beef, provides 100% healthy nutrition that is complete and balanced for small adult dogs, one year and up. This product, which encourages dogs to Eat Healthy, Eat Smart, is specially formulated with functional fibers that make the kibbles more resistant to breaking up easily during chewing. This unique feature results in stronger kibbles and a longer chewing time, facilitating a mechanical, abrasive brushing action that helps clean the dog's teeth. This natural cleaning process is effective in lessening the build-up of dental plaque and calculus on their teeth. Please note that the Expiration Date for this food is February 2026."
+  },
+  {
+    "name": "Pedigree Mother and Baby Milk Dry Dog Food 1.3kg",
+    "price": 320,
+    "category": "dog-food",
+    "image": "dogfood2.jpg",
+    "description" : "Pedigree Mother and Baby Dog Dry Food (1.3kg), often available in a Milk Flavor, is a complete and balanced starter formula designed specifically for pregnant and lactating mother dogs and their weaning puppies (typically from 3 to 12 weeks of age). This energy-dense formula is enriched with essential nutrients, including protein, vitamins, and minerals, to support the high energy needs of the mother and the rapid growth of the puppies. It is formulated to be easy to digest for better absorption, assisting puppies in transitioning from breast milk to solid food, usually around 6-8 weeks. Furthermore, the food contains ingredients to support a healthy immune system and often includes DHA to aid in brain development, ensuring a healthy and strong start for the young pups."
+  },
+  {
+    "name": "SmartHeart Adult Lamb and Rice Dry Dog Food 3kg",
+    "price": 580,
+    "category": "dog-food",
+    "image": "dogfood3.png",
+    "description":"SmartHeart Dry Food, featuring a delicious Lamb and Rice Flavor, is a complete and balanced diet suitable for Adult Dogs of All Breeds. This formula is designed to support overall canine wellness with several key benefits. It promotes Enhanced Brain Function through the inclusion of DHA (sourced from fish oil) and choline, which support a healthy nervous system. For a Healthy Heart, the food contains Omega 3 fatty acids from fish oil. A blend of balanced Omega 3 and 6 essential fatty acids ensures a Healthy Skin and Shiny Coat. The presence of Vitamin E and Selenium supports a Strong Immune System. Additionally, the highly digestible ingredients contribute to Healthy Digestion and improved stool quality, while the correct balance of Calcium and Phosphorus promotes Strong Bones and Teeth."
+  },
+  {
+    "name": "IAMS Adult All Breed Chicken Dry Dog Food 1.5kg",
+    "price": 495,
+    "category": "dog-food",
+    "image": "dogfood4.png",
+    "description" : "This premium dry dog food is formulated to support a dog's complete health, starting with Strong, Firm Muscles thanks to the inclusion of quality protein sourced from chicken. It ensures Healthy Digestion through a signature blend of wholesome fiber and FOS natural prebiotics. The food offers Healthy Immune System support with a scientifically formulated, complete, and balanced nutritional profile, complemented by an antioxidant-rich formula for Healthy Natural Defense. A balanced ratio of Omega 3 and 6 fatty acids promotes Healthy Skin and a Shiny, Natural Soft Coat. Furthermore, the recipe supports Healthy Energy Metabolism with a Vitamin B6-enriched recipe, and provides Strong Bones with essential minerals. Finally, it aids in Daily Dental Care Support through a crunchy kibble texture and STPP."
+  },
+  {
+    "name": "SmartHeart Chicken and Liver Wet Dog Food 400g (2 cans)",
+    "price": 198,
+    "category": "dog-food",
+    "image": "dogfood5.png",
+    "description" : "SmartHeart Chicken and Liver Wet Dog Food (400g cans) is a delicious, complete, and balanced meal made from real meat that meets the nutritional requirements for adult dogs of all breeds. This palatable formula provides 100% of the essential nutrients dogs need to stay healthy and strong. It is rich in Protein from quality meat to build and maintain good muscle mass, and contains Fat to provide energy and maintain a healthy skin and shiny coat. Furthermore, the wet food includes a blend of Vitamins and Minerals that strengthen normal body function, enhance the immune system, and promote strong bones and teeth."
+  },
+  {
+    "name": "Pedigree Puppy Chicken Chunks in Gravy Wet Dog Food 130g (12 pouches)",
+    "price": 540,
+    "category": "dog-food",
+    "image": "dogfood6.png",
+    "description":"Pedigree Pouch Puppy Chicken provides a delicious Complete and Balanced Nutrition in a savory Chicken Chunks Flavor in Gravy, designed to meet the specific needs of growing puppies. This wet food offers numerous benefits, including Omega 6 and Zinc for healthy skin and a shiny coat, and Calcium & Phosphorus to build strong bones and teeth. The formula contains Protein for the development of strong muscles, while Dietary Fiber supports a healthy digestive system. Essential Vitamins and Minerals are included to ensure all body systems work effectively. Pedigree Pouch not only delivers essential nutrition but also provides a superb taste with meaty chunks for puppies' enjoyment. For new users, it is recommended to mix feed the pouch with dry food at the initial stage to enhance the aroma, deliciousness, and ensure a complete and balanced diet."
+  },
+  {
+    "name": "Aozi Chicken Wet Dog Food 430g (2 cans)",
+    "price": 230,
+    "category": "dog-food",
+    "image": "dogfood7.png",
+    "description" : "Aozi Wet Food, available in a delicious Chicken Flavor, is a pure natural organic food suitable for dogs of all breeds and life stages. This formula provides natural balanced nutrition while strictly adhering to high standards by containing no preservatives, no artificial flavoring, no coloring, and no GMOs. Aozi soft dog food offers distinct advantages over typical dry kibble due to its higher combination of human ecology and animal nutrition. It is a new, humanized product formulated specifically in accordance with dogs' physical characteristics and nutritional needs. The special wet food formula is designed to support bone health, provide dental care, improve immunity, and promote healthy growth."
+  },
+  {
+    "name": "Brit Premium by Nature Lamb with Buckwheat Sensitive Wet Dog Food 800g",
+    "price": 205,
+    "category": "dog-food",
+    "image": "dogfood8.png",
+    "description" : "Brit Premium by Nature Lamb with Buckwheat for Sensitive Dogs is a highly versatile wet food that serves as an ideal addition to granules, a complete meal, or a flavorful snack for adult dogs of all breeds. This formula is highlighted by its excellent digestibility and exquisite flavor, which helps to improve food intake and overall hydration. It is packed with beneficial ingredients like buckwheat for immunity support, salmon oil, and a blend of fruit and herbs. Providing a balanced content of essential nutrients, vitamins, and minerals, this premium product is also completely clean, containing no grains, no salt, and no GMOs."
+  },
+  {
+    "name": "Go! Solutions Sensitivities Limited Ingredient Grain Free Turkey Wet Dog Food 354g",
+    "price": 229,
+    "category": "dog-food",
+    "image": "dogfood9.png",
+    "description" : "GO! Solutions Sensitivities Limited Ingredient Grain Free Shredded Turkey Recipe is a highly specialized wet food offering balanced nutrition for dogs with specific dietary needs across All Life Stages. Specially formulated for picky eaters and sensitive dogs, this recipe uses premium cage-free Turkey with gravy as its sole source of animal protein, and is notably a Chicken, Legume, and Potato Free Recipe. It supports healthy, hydrated skin and a shiny coat through Omega fatty acids. Committed to quality, it contains zero by-product meals or artificial preservatives. Key natural ingredients include Turkey for protein, Cranberries for immune system and urinary tract health, Pumpkin for fiber and beta-carotene, and Flaxseed for protein, Omega-3s, B vitamins, and soluble fiber. This versatile food can be used either as a topper or a complete and balanced meal."
+  },
+  {
+    "name": "Brit Pate and Meat Duck Wet Dog Food 400g (2 cans)",
+    "price": 270,
+    "category": "dog-food",
+    "image": "dogfood10.png",
+    "description" : "Brit Pâté and Meat Duck Wet Dog Food is a complete food for adult dogs of all breeds, designed to be an ideal supplement to granules, helping to improve both food intake and hydration. This product features a delicious combination of a pure pâté base with real, whole chunks of meat and offal, ensuring an excellent flavor and aroma that will perfectly satisfy even the most demanding canine gourmands. A high content of quality meat and careful processing are guaranteed in this formula. Furthermore, this clean recipe is completely Grain Free, Soy Free, and GMO Free."
+  },
+  {
+    "name": "Pedigree Tasty Bites Chewy Bones Beef Dog Treats 50g",
+    "price": 105,
+    "category": "dog-treats",
+    "image": "dogtreat1.png",
+    "description" : "Pedigree Tasty Bites Chewy Bones (50g) are delicious, beef-flavored treats designed to be a satisfying chew for dogs. These chewy bones are an excellent way to reward your dog, providing a palatable texture and flavor they love. The convenient size makes them easy to carry and serve during training or as a simple treat between meals. While being an enjoyable snack, these tasty bites help keep your dog engaged and happy."
+  },
+  {
+    "name": "SmartHeart Grilled Beef Dog Treats 100g",
+    "price": 85,
+    "category": "dog-treats",
+    "image": "dogtreat2.png",
+    "description" : "SmartHeart Grilled Beef Dog Treats (100g) are a palatable snack designed to offer both enjoyment and health benefits for your dog. These treats contain Omega 6 to actively promote a healthy skin and coat, and Natural Cellulose to help support a properly working digestive system. Additionally, the treats feature a special designed shape intended to help reduce the buildup of plaque and tartar, which are common causes of bad breath. Beyond the Grilled Beef flavor, these treats are also available in Fruit and Vegetable and Grilled Chicken varieties."
+  },
+  {
+    "name": "Carnilove Crunchy Snack Lamb with Cranberries Dog Treats 200g",
+    "price": 219,
+    "category": "dog-treats",
+    "image": "dogtreat3.png",
+    "description" : "Carnilove Crunchy Snack Lamb with Cranberries (200g) is a complementary dog food made with fresh lamb meat, making it a delicious and highly suitable option for sensitive dogs of all breeds. This snack is formulated to promote strong immunity, thanks to the inclusion of cranberries, which are a natural source of antioxidants. These tasty treats can be served daily as a reward, used for positive motivation training, or simply given as a treat during shared moments throughout the day."
+  },
+  {
+    "name": "Sleeky Chewy Snack Stick Bacon Dog Treats 50g (2 packs)",
+    "price": 198,
+    "category": "dog-treats",
+    "image": "dogtreat4.png",
+    "description" : "Sleeky Chewy Snack Stick Bacon Dog Treats are an ideal anytime treat suitable for all breeds and all life stages. Made with real meat to ensure a high level of palatability, these chewy sticks are perfect for showing affection to your lovely dogs or as a reward during training. They can be given at will. For the best quality, remember to store the treats in a cool and dry place."
+  },
+  {
+    "name": "Inaba Churu Bites Chicken Wraps Dog Treats 12gx8 (USD-721)",
+    "price": 239,
+    "category": "dog-treats",
+    "image": "dogtreat5.png",
+    "description" : "This unique dog treat features a delicious combination of textures and savory flavors that dogs love, consisting of a bite-sized, soft-baked chicken exterior with a creamy Churu filling. Made primarily with chicken, this high-quality treat is formulated without grains, artificial colors, or preservatives. Its soft texture and enticing flavor make it particularly ideal for taking together with medications, helping to mask pills and make the process easier for both the dog and the owner."
+  },
+  {
+    "name": "Inaba Churu Bites Chicken Wraps Salmon Dog Treats 12gx8 (USD-723)",
+    "price": 239,
+    "category": "dog-treats",
+    "image": "dogtreat6.png",
+    "description" : "This unique dog treat features a delicious combination of textures and savory flavors that dogs love, consisting of a bite-sized, soft-baked chicken exterior with a creamy Churu filling. Made primarily with chicken and salmon, this high-quality treat is formulated without grains, artificial colors, or preservatives. Its soft texture and enticing flavor make it particularly ideal for taking together with medications, helping to mask pills and make the process easier for both the dog and the owner."
+  },
+  {
+    "name": "Absolute Holistic Dental Chew Cranberry Dog Treats 25g",
+    "price": 49,
+    "category": "dog-treats",
+    "image": "dogtreat7.png",
+    "description" : "Absolute Holistic Dental Chews, featuring the health benefits of Cranberry, are uniquely designed to act like a toothbrush, effectively scraping away plaque and tartar. These chews boast 360° nubs and ridges with hollow spaces to provide a better grip, allowing them to clean teeth right down to the gum line while satisfying your dog's natural instinct to chew. The inclusion of cranberry supports your pet's urinary health through its A-type proanthocyanidins (PACs), which help interfere with bacteria clinging to the bladder wall. These treats are an excellent guilt-free reward for your pup, as they contain absolutely no grain, making them perfect for dogs with grain sensitivities while simultaneously keeping their oral hygiene in check."
+  },
+  {
+    "name": "Zert Dentacare Pistachio Gelato Dog Treats 148g",
+    "price": 149,
+    "category": "dog-treats",
+    "image": "dogtreat8.png",
+    "description" : "Zert Dentacare is a specialized chew created specifically to clean your dog's teeth and is highly recommended for medium and large breed adult dogs. This dental product is effective at preventing plaque buildup and actively works to freshen breath. Dogs can enjoy this oral care routine due to the luscious flavors, which have been carefully formulated to ensure a high level of palatability and enjoyment."
+  },
+  {
+    "name": "Dentalight Star Trainers Assorted Dog Treats 150g",
+    "price": 149,
+    "category": "dog-treats",
+    "image": "dogtreat9.png",
+    "description" : "Dentalight Star Trainers assorted flavor treats are a delicious, bite-sized training reward that dogs love to eat, making training easy and fun. Available in an Assorted Flavor mix of Milk, Chicken, and Seaweed, the treats come in a convenient jar for easy access. The delightful chewy texture and Star-shape design serve a dual purpose by excellently helping to reduce plaque and tartar buildup. Using these treats is a great way to encourage your dogs to focus, motivate them to perform, and ultimately speed up their learning curve."
+  },
+  {
+    "name": "Pet Plus Training Treats Beef Dog Treats 50g",
+    "price": 49,
+    "category": "dog-treats",
+    "image": "dogtreat10.png",
+    "description" : "Pet Plus Training Treats are highly palatable, bite-size beef flavor treats designed specifically to be used as effective rewards during the training of your pet. These small treats are not only enticing to dogs but are also formulated to be safe for digestion, making them an excellent choice for frequent use as a positive reinforcement tool."
+  },
+  {
+    "name": "Furmagic Pink Dog Shampoo 1000ml",
+    "price": 649,
+    "category": "grooming",
+    "image": "petgs1.png",
+    "description" : "Furmagic Pink Dog Shampoo is a proven and tested quality product that is both safe and affordable, making it a great choice for your pet. This shampoo is enriched with beneficial ingredients, including Madre de Cacao, Neem Oil, and Aloe Vera extracts. The powerful Madre de Cacao extract is specifically included to instantly get rid of mange, hotspots, and various other skin diseases. Furthermore, the shampoo is formulated with fast-acting Stem Cell technology that helps achieve magical effects instantly, promoting a healthy and clean coat."
+  },
+  {
+    "name": "Saint Roche Premium Heaven Scent Dog Shampoo 1000m",
+    "price": 550,
+    "category": "grooming",
+    "image": "petgs2.png",
+    "description" : "Saint Roche Premium Heaven Scent Dog Shampoo is a premium organic dog shampoo that features a delightful Heaven Scent and is made with 100% natural ingredients. This hypoallergenic formula includes powerful extracts from Moringa, Oatmeal, Eucalyptus, and Aloe Vera, which work together to effectively address common pet problems. It is formulated to remove Ticks, Mites, Fleas, and Odor while being gentle on the skin. Committed to safety and quality, the shampoo is guaranteed to be SLES free and Parabens Free."
+  },
+  {
+    "name": "Purry Mint Dental Care Kit (Toothpaste and Toothbrush) 90g",
+    "price": 279,
+    "category": "grooming",
+    "image": "petgs3.png",
+    "description" : "The Purry Dental Set is a comprehensive oral hygiene package designed for both Dogs and Puppies as well as Cats and Kittens. The set includes a 90g tube of Fresh Mint Flavor Toothpaste, which is made of natural ingredients guaranteed to promote dental health and fresh breath. To facilitate easy and effective cleaning, the set also provides a total of three brushes: two dog finger brushes and one traditional dog toothbrush."
+  },
+  {
+    "name": "Muddy Paws Area Disinfectant and Deodorizer Pet Spray 500ml",
+    "price": 299,
+    "category": "grooming",
+    "image": "petgs4.png",
+    "description" : "Muddy Paws Pet Area Disinfectant and Deodorizer (500ml) is a powerful spray designed to ensure a clean and hygienic environment by killing 99.99% of germs in just 60 seconds, including bacteria, viruses, fungi, and odors. A key feature of this product is its safety profile: it does not contain chlorine or alcohol, making it non-toxic, non-flammable, non-staining or bleaching, non-corrosive, and it does not emit harsh fumes. To enhance its effectiveness and scent, the formula also contains lemongrass essential oil, which is known for its high-level scavenging activity."
+  },
+  {
+    "name": "Pupaholic Training Pads Charcoal 60x70cm 40s Large",
+    "price": 1199,
+    "category": "grooming",
+    "image": "petgs5.png",
+    "description" : "Pupaholic PH Charcoal Pads are highly effective due to their ability to absorb large amounts of liquid and their specially developed microstructures that make them extremely tear-proof and hard-wearing. A key feature is the charcoal-based, odorless system which protects against unwanted smells. Their highly secure no-leak protection and ease of use make them incredibly versatile: they are excellent for house training puppies, providing a safe spot for dogs that must stay home alone for extended periods, and are beneficial for older, sick, or incontinent dogs. Additionally, these Charcoal Pads offer excellent hygiene and protection when lining transport boxes during long car or plane rides."
+  },
+  {
+    "name": "LC-Vit Pet Multivitamins in Syrup 120ml",
+    "price": 199,
+    "category": "health",
+    "image": "pethw1.png",
+    "description" : "LC-Vit Pet Multivitamins in Syrup (120ml) is a supplemental formula designed to provide essential multivitamins for pets, ensuring they receive necessary nutrients that may be lacking in their regular diet. Delivered in an easy-to-administer syrup form, it is typically used to promote appetite and general health in dogs, cats, and other pets. Consistent use helps support overall wellness, aids in proper body function, and contributes to a healthier and more vigorous pet."
+  },
+  {
+    "name": "Vetnoderm Wound Cream (2 pcs)",
+    "price": 618,
+    "category": "health",
+    "image": "pethw2.png",
+    "description" : "Vetnoderm Wound Cream is an essential topical treatment, often provided in a two-piece set, formulated to aid in the healing and recovery of wounds in pets. This cream is typically used to manage various types of cuts, abrasions, burns, and surgical wounds, helping to prevent infection and promote faster tissue repair. By providing a protective layer, Vetnoderm helps to soothe the affected area while creating an ideal environment for the skin to regenerate, supporting the overall health and comfort of the animal during the healing process."
+  },
+  {
+    "name": "NexGard Chewable Tablet for Medium Breed Dogs >4-10kg / 10-24lbs (3 tablets)",
+    "price": 2061,
+    "category": "health",
+    "image": "pethw3.png",
+    "description" : "NexGard Chewable Tablets are an effective and easy-to-administer medication designed specifically for Medium Breed Dogs weighing between 4 to 10 kilograms (10 to 24 pounds). Typically provided in a three-tablet pack, each soft, beef-flavored chewable is formulated to kill fleas and ticks by interfering with their nervous systems, offering a full month of protection per dose. As a fast-acting and convenient solution, NexGard helps prevent infestation and the diseases associated with these parasites, ensuring the ongoing health and comfort of your medium-sized dog."
+  },
+  {
+    "name": "Livotine Cat and Dog Liver Tonic and Renal Enhancer Supplement 120ml",
+    "price": 229,
+    "category": "health",
+    "image": "pethw4.png",
+    "description" : "Livotine is a specialized liquid supplement (120ml) formulated as a combined Liver Tonic and Renal Enhancer for both Cats and Dogs. This supplement is designed to support and protect the health of two vital organs—the liver and the kidneys. By providing essential ingredients, Livotine helps improve and maintain proper liver function, aiding in detoxification and metabolism. Simultaneously, it works as a renal enhancer to support the healthy function of the kidneys, making it a comprehensive supplement for pets needing targeted organ support."
+  },
+  {
+    "name": "Coat Shine Performance Enhancer for Dogs 120ml",
+    "price": 399,
+    "category": "health",
+    "image": "pethw5.png",
+    "description" : "The Coat Shine Performance Enhancer (120ml) is a specialized supplement for dogs designed to significantly improve the appearance and condition of their coat and skin. Formulated to enhance performance and aesthetics, this product provides essential nutrients, such as Omega fatty acids, that nourish the skin from within. Consistent use helps to transform a dull coat into a shiny, lustrous, and healthy-looking one, while also supporting skin hydration and overall dermal health."
+  },
+  {
+    "name": "EzyDog 2 in 1 Ortho Calm Elite Dog Bed Large",
+    "price": 9999,
+    "category": "supplies",
+    "image": "petS1.png",
+    "description" : "The EzyDog 2 in 1 Ortho Calm Elite Dog Bed (Large) is a premium sleeping solution specifically engineered for the comfort and well-being of larger dogs. This versatile, 2-in-1 design provides superior support, combining orthopedic features to alleviate joint pressure and promote bone health with a focus on providing a calming environment. The bed is designed to provide maximum comfort and tranquility for your dog, ensuring a restful sleep, which is particularly beneficial for older dogs or those with mobility issues."
+  },
+  {
+    "name": "Lucky Dog Wire Cage 24x16x10",
+    "price": 2299,
+    "category": "supplies",
+    "image": "petS2.png",
+    "description" : "The Lucky Dog Wire Cage, measuring 24x16x10 (presumably inches, representing length, width, and height), is a sturdy and practical housing solution designed for pets, typically dogs. Constructed from durable wire, this cage offers a secure and well-ventilated space that is ideal for house training, safe transport, or providing a den-like retreat for your dog. Its wire design allows for easy visibility and simple cleanup, making it a reliable and convenient option for pet containment."
+  },
+  {
+    "name": "Zee.Dog 3-Level Dog Bowl Sand",
+    "price": 1599,
+    "category": "supplies",
+    "image": "petS3.png",
+    "description" : "The Zee.Dog 3-Level Dog Bowl in the Sand color is an innovative feeding accessory designed to offer adjustable height for optimal feeding posture and comfort. This unique bowl system allows owners to customize the height to one of three levels, making it suitable for dogs of various sizes, from small to large. Adjusting the bowl height can aid in improving digestion and reducing strain on the neck and joints, ensuring a more ergonomic and comfortable dining experience for your dog."
+  },
+  {
+    "name": "EzyDog Checkmate Dog Collar Medium Black",
+    "price": 1299,
+    "category": "supplies",
+    "image": "petS4.png",
+    "description" : "The EzyDog Checkmate Dog Collar (Medium, Black) is a functional and secure training and walking tool designed for medium-sized dogs. This collar features a unique Checkmate design, which operates similarly to a martingale collar by providing a controlled tightening action when tension is applied, effectively preventing the dog from backing out of the collar without causing choking. The design ensures a comfortable fit during regular wear but offers necessary control when needed, making it an ideal choice for everyday walking and training."
+  },
+  {
+    "name": "Nina Ottosson Casino Plastic Interactive Level 3 Dog Toy",
+    "price": 1399,
+    "category": "supplies",
+    "image": "petS5.png",
+    "description" : "The Nina Ottosson Casino Plastic Interactive Dog Toy is a challenging Level 3 puzzle designed to provide engaging mental stimulation for your dog. This interactive game requires your pet to use problem-solving skills to retrieve hidden treats by manipulating various drawers and rotating compartments. It is constructed from durable, easy-to-clean plastic and is excellent for reducing boredom, discouraging destructive behavior, and strengthening the bond between you and your dog by challenging their mind."
+  },
+  {
+    "name": "SmartHeart Adult Chicken and Tuna Dry Cat Food 1.2kg",
+    "price": 310,
+    "category": "cat-food",
+    "image": "catfood1.png",
+    "description" : "SmartHeart Adult Chicken and Tuna Dry Cat Food (1.2kg) provides a complete and balanced nutrition profile tailored for adult cats. This palatable formula supports overall health through its optimal blend of essential nutrients, vitamins, and minerals. The combination of chicken and tuna ensures a rich flavor that encourages food intake while delivering high-quality protein necessary for maintaining lean muscle mass, making it an excellent choice for a cat's daily diet."
+  },
+  {
+    "name": "Kit Cat Pick of the Ocean Urinary Care Dry Cat Food 1.2kg",
+    "price": 569,
+    "category": "cat-food",
+    "image": "catfood2.png",
+    "description" : "Kit Cat Pick of the Ocean Urinary Care Dry Cat Food (1.2kg) is a specialized formula designed to support the long-term health of your cat's urinary system. This recipe utilizes the delicious Pick of the Ocean flavor to ensure high palatability while incorporating essential ingredients formulated to maintain an optimal pH level in the urine, which helps reduce the risk of common urinary tract issues. As a complete and balanced meal, this food focuses on providing necessary nutrients while proactively protecting one of your cat's most sensitive body systems."
+  },
+  {
+    "name": "Acana Adult Indoor Entrée Dry Cat Food 1.8kg",
+    "price": 1225,
+    "category": "cat-food",
+    "image": "catfood3.png",
+    "description" : "Acana Adult Indoor Entrée Dry Cat Food (1.8kg) is a high-quality, biologically appropriate formula specifically designed to meet the nutritional needs of indoor cats. This premium recipe is typically crafted with a high inclusion of fresh or raw animal ingredients, such as poultry and fish, providing the necessary protein to maintain lean muscle mass. The formula is often designed with balanced calorie and fat levels, along with essential fiber from whole vegetables and fruits, to help support healthy weight management and hairball control—two key considerations for the indoor feline lifestyle."
+  },
+  {
+    "name": "Friskies Surfin Favourites Dry Cat Food 6kg",
+    "price": 1275,
+    "category": "cat-food",
+    "image": "catfood4.png",
+    "description" : "Friskies Surfin' Favorites Dry Cat Food (6kg) offers a flavor-packed meal that delivers 100% complete and balanced nutrition for adult cats. This recipe features a delightful mix of flavors, combining the tastes of the ocean such as tuna, salmon, and whitefish, to satisfy a cat's craving for seafood. The kibble is formulated with essential proteins, vitamins, and minerals to support a cat's overall health, energy, and vitality, making it a popular and palatable choice for daily feeding."
+  },
+  {
+    "name": "Kit Cat Grain-Free Tuna and Mackerel Wet Cat Food 400g (2 cans)",
+    "price": 190,
+    "category": "cat-food",
+    "image": "catfood5.png",
+    "description" : "Kit Cat Grain-Free Tuna and Mackerel Wet Cat Food (400g, 2 cans) is a premium, moisture-rich diet featuring a delicious blend of tuna and mackerel that caters to your cat's natural carnivorous needs. This formula is completely grain-free, making it highly digestible and suitable for cats with sensitivities. As a high-quality wet food, it provides essential hydration and is packed with natural protein, vitamins, and minerals to support muscle maintenance, overall health, and vitality."
+  },
+  {
+    "name": "Inaba Pudding Cup Tuna Scallop Wet Cat Food 65g (IMC-154) (6 pcs)",
+    "price": 360,
+    "category": "cat-food",
+    "image": "catfood6.png",
+    "description" : "Inaba Pudding Cup Tuna Scallop Wet Cat Food (65g per cup, IMC-154, sold in a 6-piece pack) is a highly palatable, moisture-rich supplement that offers a delicious and unique feeding experience for cats. This product features real Tuna and Scallop in a smooth, pudding-like consistency that cats find irresistible. The cup format is convenient for serving and encourages consumption, helping to boost a cat's daily hydration. Made with high-quality ingredients, it serves as an excellent treat or food topper to enhance mealtime enjoyment."
+  },
+  {
+    "name": "Cosi Pet's Milk 1L (2 cartons)",
+    "price": 400,
+    "category": "cat-food",
+    "image": "catfood7.png",
+    "description" : "Cosi Pet's Milk (1L, sold in 2 cartons) is a specially formulated, easily digestible milk substitute designed to be a safe and healthy supplement for various pets, including kittens, puppies, and older or convalescing animals. Unlike standard cow's milk, this formula is typically lactose-reduced or lactose-free to prevent digestive upset in animals. It provides essential protein, calcium, and vitamins that support healthy growth, strong bones, and general vitality, making it an excellent palatable source of hydration and nutrition."
+  },
+  {
+    "name": "Kit Cat Deboned Chicken and Prawn Wet Cat Food 80g (6 cans)",
+    "price": 354,
+    "category": "cat-food",
+    "image": "catfood8.png",
+    "description" : "Kit Cat Deboned Chicken and Prawn Wet Cat Food (80g per can, sold in a 6-can pack) offers a gourmet, high-protein meal made with real, deboned chicken and delicious prawn. This highly palatable wet food is formulated to provide cats with essential nutrients in a moisture-rich format, which is crucial for maintaining proper hydration and urinary tract health. It serves as a complete and balanced diet, utilizing quality animal protein to support lean muscle maintenance and overall feline vitality."
+  },
+  {
+    "name": "Temptations Chicken Cat Treats 75g",
+    "price": 115,
+    "category": "cat-treats",
+    "image": "cattreats1.png",
+    "description" : "Temptations Chicken Cat Treats (75g) are highly popular, crunchy-on-the-outside and soft-on-the-inside snacks that deliver an irresistible Chicken flavor cats crave. Designed to be fed as a treat or reward, these small, crunchy pockets provide a satisfying texture and can be shaken in the pouch to engage your cat. With less than 2 calories per treat, they are an excellent way to indulge your feline friend while providing a boost of flavor and enjoyment."
+  },
+  {
+    "name": "Kit Cat Kitty Crunch Salmon Cat Treats 60g",
+    "price": 89,
+    "category": "cat-treats",
+    "image": "cattreats2.png",
+    "description" : "Kit Cat Kitty Crunch Salmon Cat Treats (60g) are delicious, crunchy snacks specifically formulated to provide an irresistible Salmon flavor that cats adore. These treats are designed with a satisfyingly crispy texture that helps to reduce tartar buildup on a cat's teeth while rewarding them. They are a great source of protein and are made with high-quality ingredients, making them a perfect, palatable, and light snack for your cat any time of day."
+  },
+  {
+    "name": "Brit Care Dental Cat Treats 50g",
+    "price": 119,
+    "category": "cat-treats",
+    "image": "cattreats3.png",
+    "description" : "Brit Care Dental Cat Treats (50g) are a specialized functional snack designed to actively support your cat's oral hygiene. These treats are formulated to help prevent the build-up of dental plaque and tartar through their texture and shape, which provides a gentle cleaning action on the teeth during chewing. Beyond their dental benefits, they are often enriched with ingredients like herbs or essential nutrients to promote overall health and freshen breath, making them a healthy and effective way to reward your cat."
+  },
+  {
+    "name": "Jerky Time Chicken and Codfish Bites Cat Treats 80g",
+    "price": 135,
+    "category": "cat-treats",
+    "image": "cattreats4.png",
+    "description" : "Jerky Time Chicken and Codfish Bites Cat Treats (80g) are a savory, protein-rich snack designed to delight your cat with a blend of high-quality Chicken and Codfish. These soft, chewy bites are highly palatable and serve as an excellent reward or motivational tool during training. Made with real meat, these treats offer a natural source of protein and are a perfect way to show affection and satisfy your cat's natural desire for meat flavors."
+  },
+  {
+    "name": "Ciao Churu Grilled Tuna Scallop Cat Treats 12gx4 (4R-105) (2 packs)",
+    "price": 220,
+    "category": "cat-treats",
+    "image": "cattreats5.png",
+    "description" : "Ciao Churu Grilled Tuna Scallop Cat Treats (4R-105) are a highly popular, moisture-rich supplement, provided in convenient 12g tubes within an 8-pack total (2 packs of 4). These creamy purée treats feature real, high-quality Grilled Tuna and Scallop to deliver a savory flavor and aroma that is exceptionally palatable to cats. Often used for hydration, as a food topper, or for administering medication, Churu treats are typically formulated to be grain-free and contain no artificial colors or preservatives, making them a healthy, irresistible snack for all felines."
+  },
+  {
+    "name": "Ciao Churu Tuna Maguro Cat Treats 14gx4 (SC-71) (2 packs)",
+    "price": 220,
+    "category": "cat-treats",
+    "image": "cattreats6.png",
+    "description" : "Ciao Churu Tuna Maguro Cat Treats (SC-71) are a highly popular, moisture-rich supplement, provided in convenient 14g tubes within an 8-pack total (2 packs of 4). These creamy purée treats feature real, high-quality Tuna Maguro (Bluefin Tuna) to deliver a savory flavor and aroma that is exceptionally palatable to cats. Often used for hydration, as a food topper, or for administering medication, Churu treats are typically formulated to be grain-free and contain no artificial colors or preservatives, making them a healthy, irresistible snack for all felines."
+  },
+  {
+    "name": "SmartHeart Creamy Chicken Cat Treats 60g",
+    "price": 110,
+    "category": "cat-treats",
+    "image": "cattreats7.png",
+    "description" : "SmartHeart Creamy Chicken Cat Treats (60g) are a delicious, moisture-rich purée snack designed to be highly appealing to cats. These treats feature a savory Chicken flavor in a smooth, creamy texture that encourages palatability and consumption. They are often used to enhance a cat's meal, aid in administering medication, or simply serve as a delightful and hydrating treat between meals, providing a high-value reward that cats adore."
+  },
+  {
+    "name": "Ciao Jelly Stick Tuna Katsuo Cat Treats 15gx4 (SC-82) (2 packs)",
+    "price": 220,
+    "category": "cat-treats",
+    "image": "cattreats8.png",
+    "description" : "Ciao Jelly Stick Tuna Katsuo Cat Treats (SC-82) are a unique, savory snack provided in a convenient stick format, within an 8-pack total (2 packs of 4). These treats feature a delicious blend of Tuna and Katsuo (Bonito) encased in a soft, easy-to-consume jelly texture. The jelly format offers an excellent way to boost your cat's daily hydration while providing a highly palatable, high-value reward. Like other Ciao products, they are typically formulated with high-quality ingredients, often being grain-free and free from artificial additives, making them a healthy and enjoyable snack."
+  },
+  {
+    "name": "Arm and Hammer Deodorizer Cat Litter 20oz",
+    "price": 279,
+    "category": "cat-litter",
+    "image": "catL1.png",
+    "description" : "Arm & Hammer Deodorizer Cat Litter (20oz) is a powerful addition designed to maximize the odor-fighting capabilities of any traditional cat litter. Utilizing the proven strength of Arm & Hammer Baking Soda, this deodorizer works by instantly destroying and absorbing odors upon contact, not just masking them. It helps to keep the litter box environment fresh and clean, extending the effectiveness of the litter and promoting a more pleasant home environment for both cats and owners."
+  },
+  {
+    "name": "Kit Cat Classic Clump Lavender Cat Litter 10L",
+    "price": 349,
+    "category": "cat-litter",
+    "image": "catL2.png",
+    "description" : "Kit Cat Classic Clump Lavender Cat Litter (10L) is a premium, 100% natural bentonite clay litter known for its superior clumping ability, which makes cleanup quick and easy by forming solid clumps upon contact with liquid. This formula is infused with a soothing Lavender scent to effectively control and neutralize odors, helping to keep the litter box fresh. Furthermore, this non-toxic and low-dust litter ensures a hygienic environment while minimizing tracking, offering excellent performance and a pleasant aroma."
+  },
+  {
+    "name": "Our Cat Tofu Green Tea Cat Litter 6L",
+    "price": 389,
+    "category": "cat-litter",
+    "image": "catL3.png",
+    "description" : "Our Cat Tofu Green Tea Cat Litter (6L) is an eco-friendly and highly absorbent litter made from natural, biodegradable tofu remnants. This safe, non-toxic formula offers excellent odor control, naturally neutralizing smells, and is enhanced with a refreshing Green Tea scent for a pleasant atmosphere. Known for its strong clumping ability, the litter forms quick, hard clumps that are easy to scoop and can even be flushable in small quantities, providing a low-dust and sustainable alternative to traditional clay litters."
+  },
+  {
+    "name": "Kit Cat Classic Clump Cherry Blossom Cat Litter 10L",
+    "price": 349,
+    "category": "cat-litter",
+    "image": "catL4.png",
+    "description" : "Kit Cat Classic Clump Cherry Blossom Cat Litter (10L) is a premium, 100% natural bentonite clay litter known for its superior clumping ability, which streamlines cleanup by forming firm, scoopable clumps upon contact with liquid. This formula is infused with a delightful Cherry Blossom scent to effectively control and neutralize litter box odors, ensuring a fresh and pleasant environment. As a low-dust and non-toxic option, it delivers excellent hygiene performance while minimizing tracking around the home."
+  },
+  {
+    "name": "Kit Cat Zeolite Charcoal Floral Breeze Cat Litter 4kg",
+    "price": 369,
+    "category": "cat-litter",
+    "image": "catL5.png",
+    "description" : "Kit Cat Zeolite Charcoal Floral Breeze Cat Litter (4kg) is a mineral-based formula that harnesses the power of Zeolite mineral stones combined with Activated Charcoal to provide exceptional odor control and freshness. The Zeolite is highly absorbent, while the Charcoal actively works to neutralize strong odors. This litter is infused with a pleasant Floral Breeze scent to enhance the environment. It is typically a low-dust option, offering an alternative texture to clay litters while maintaining a focus on high hygiene standards and effective scent management."
+  }
+]

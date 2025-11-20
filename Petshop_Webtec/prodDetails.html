@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Product Details</title>
+    <script src="code.js"></script>
+    <script src="mystocks.js"></script>
+    <link rel="stylesheet" href="design.css">
+    <style>
+        /*PRODUCT DETAILS*/
+
+        body {
+            margin: 0;
+            font-family: "Poppins", sans-serif;
+            background: linear-gradient(to bottom right, #fff5fb, #e8f7ff);
+            color: #3b2b13;
+        }
+
+        #productName {
+            color: #543618;
+        }
+
+        .product-details-container {
+            margin-top: 1%;
+            display: flex;
+            justify-content: center;
+            align-items: flex-start;
+            gap: 60px;
+            padding: 60px;
+            flex-wrap: wrap;
+        }
+
+        .product-details-container img {
+            width: 430px;
+            height: 515px;
+            object-fit: contain;
+            background-color: #fff;
+            border-radius: 25px;
+            box-shadow: 0 5px 15px rgba(255, 99, 208, 0.516);
+            padding: 20px;
+            transition: transform 0.3s;
+        }
+
+        .product-details-container img:hover {
+            transform: scale(1.03);
+        }
+
+        .details-box {
+            background: #fff;
+            border-radius: 25px;
+            padding: 40px;
+            width: 680px;
+            box-shadow: 0 5px 15px rgba(255, 99, 208, 0.516);
+        }
+
+        .details-box h2 {
+            color: #ff5fa2;
+            font-size: 26px;
+            margin-bottom: 5px;
+        }
+
+        .details-box p {
+            font-size: 16px;
+            color: #543618;
+            margin: 8px 0;
+        }
+
+        hr {
+            border: none;
+            border-top: 1.5px dashed #ffd1dc;
+            margin: 15px 0;
+        }
+
+        .price {
+            color: #ff5fa2;
+            font-weight: bold;
+            font-size: 20px;
+        }
+
+        .back-btn {
+            position: absolute;
+            top: 110px;
+            left: 40px;
+            width: 45px;
+            height: 45px;
+            background-color: #ff5fa2;
+            color: white;
+            border: none;
+            border-radius: 50%;
+            font-size: 22px;
+            text-align: center;
+            line-height: 45px;
+            text-decoration: none;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+            transition: all 0.3s ease;
+        }
+
+        .back-btn:hover {
+            background-color: #ff2e8f;
+            transform: scale(1.1);
+        }
+
+        #productDescription {
+            text-align: justify;
+            color: #543618;
+            line-height: 1.6;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="topbar">
+        <div class="nav-left">
+            <img src="petshop_logo.png" alt="Petshop Logo" class="logo">
+            <div class="nav-links">
+                <a href="contents.html">Home</a>
+                <a href="about.html">About</a>
+                <a href="products.html">Products</a>
+            </div>
+        </div>
+
+        <!-- 🧾 Cart Flyout Panel -->
+        <div id="cart-flyout" class="cart-flyout">
+            <div class="cart-header">
+                <h2>Your Cart</h2>
+                <button class="close-btn" onclick="toggleCartFlyout()">✖</button>
+            </div>
+            <div id="cart-items" class="cart-items"></div>
+            <div class="cart-footer">
+                <p><strong>Total:</strong> ₱<span id="cart-total">0.00</span></p>
+                <button class="checkout-btn">Checkout</button>
+            </div>
+        </div>
+
+        <!-- 🧾 Checkout Flyout (Centered Modal) -->
+        <div id="checkout-flyout" class="checkout-flyout centered">
+            <div class="checkout-header">
+                <h2>Order Summary</h2>
+                <button class="close-btn" onclick="toggleCheckoutFlyout()">✖</button>
+            </div>
+
+            <div id="checkout-items" class="checkout-items"></div>
+
+            <div class="checkout-summary">
+                <p><strong>Products Total:</strong> ₱<span id="checkout-products-total">0.00</span></p>
+                <p><strong>Shipping Fee:</strong> ₱70.00</p>
+                <hr>
+                <p><strong>Overall Total:</strong> ₱<span id="checkout-overall-total">0.00</span></p>
+                <button class="order-now-btn" onclick="orderNow()">Order Now</button>
+            </div>
+        </div>
+
+        <!-- Topbar section -->
+        <div class="account-section">
+            <a href="account.html" class="account-btn">My Account</a>
+            <div class="cart" onclick="toggleCartFlyout()">
+                <img src="cart.png" alt="Cart" class="cart-icon">
+                <span id="cartCount" class="cart-badge">0</span>
+            </div>
+        </div>
+    </div>
+
+    <a href="products.html" class="back-btn">❮</a>
+
+    <div class="product-details-container">
+        <img id="product-image" src="" alt="Product Image">
+        <div class="details-box">
+            <h2 id="productName">Loading...</h2>
+            <p>Petshop</p>
+            <hr>
+            <p><strong>Price:</strong> <span id="productPrice">₱0.00</span></p>
+            <p><strong>Stock:</strong> In Stock</p>
+
+            <p><strong>Description:</strong></p>
+            <p id="productDescription" style="font-size:15px; color:#543618;">Loading description...</p>
+        </div>
+    </div>
+</body>
+
+</html>

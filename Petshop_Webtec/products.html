@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Petshop - Products</title>
+  <link rel="stylesheet" href="design.css">
+  <script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
+  <script src="code.js"></script>
+  <script src="mystocks.js"></script>
+
+</head>
+
+<body>
+  <div class="topbar">
+    <div class="nav-left">
+      <img src="petshop_logo.png" alt="Petshop Logo" class="logo">
+      <div class="nav-links">
+        <a href="contents.html">Home</a>
+        <a href="about.html">About</a>
+        <a href="products.html">Products</a>
+      </div>
+    </div>
+
+    <!-- 🧾 Cart Flyout Panel -->
+    <div id="cart-flyout" class="cart-flyout">
+      <div class="cart-header">
+        <h2>Your Cart</h2>
+        <button class="close-btn" onclick="toggleCartFlyout()">✖</button>
+      </div>
+      <div id="cart-items" class="cart-items"></div>
+      <div class="cart-footer">
+        <p><strong>Total:</strong> ₱<span id="cart-total">0.00</span></p>
+        <button class="checkout-btn">Checkout</button>
+      </div>
+    </div>
+
+    <!-- 🧾 Checkout Flyout (Centered Modal) -->
+    <div id="checkout-flyout" class="checkout-flyout centered">
+      <div class="checkout-header">
+        <h2>Order Summary</h2>
+        <button class="close-btn" onclick="toggleCheckoutFlyout()">✖</button>
+      </div>
+
+      <div id="checkout-items" class="checkout-items"></div>
+
+      <div class="checkout-summary">
+        <p><strong>Products Total:</strong> ₱<span id="checkout-products-total">0.00</span></p>
+        <p><strong>Shipping Fee:</strong> ₱70.00</p>
+        <hr>
+        <p><strong>Overall Total:</strong> ₱<span id="checkout-overall-total">0.00</span></p>
+        <button class="order-now-btn" onclick="orderNow()">Order Now</button>
+      </div>
+    </div>
+
+    <!-- Topbar section -->
+    <div class="account-section">
+      <a href="account.html" class="account-btn">My Account</a>
+      <div class="cart" onclick="toggleCartFlyout()">
+        <img src="cart.png" alt="Cart" class="cart-icon">
+        <span id="cartCount" class="cart-badge">0</span>
+      </div>
+    </div>
+  </div>
+
+  <!--PRODUCTS STARTS HERE-->
+  <div class="container">
+    <aside class="sidebar">
+      <h2>Products</h2>
+      <ul>
+        <li onclick="filterProducts('all')">All</li>
+        <li onclick="filterProducts('dog-food')">Dog Food</li>
+        <li onclick="filterProducts('dog-treats')">Dog Treats</li>
+        <li onclick="filterProducts('grooming')">Pet Grooming Supplies</li>
+        <li onclick="filterProducts('health')">Pet Health & Wellness</li>
+        <li onclick="filterProducts('supplies')">Pet Supplies</li>
+        <li onclick="filterProducts('cat-food')">Cat Food</li>
+        <li onclick="filterProducts('cat-treats')">Cat Treats</li>
+        <li onclick="filterProducts('cat-litter')">Cat Litter & Accessories</li>
+
+      </ul>
+    </aside>
+
+    <div class="product-searchnfilter">
+      <div class="search-bar">
+        <input type="text" id="searchInput" placeholder="Search products...">
+        <button id="searchBtn">Search</button>
+      </div>
+      <div class="controls-container">
+        <label for="sort-select" class="sort-label">Sort By:</label>
+        <select id="sort-select" class="sort-dropdown">
+          <option value="recommended">Recommended</option>
+          <option value="price-low-high">Price: Low to High</option>
+          <option value="price-high-low">Price: High to Low</option>
+          <option value="newest">Newest Arrivals</option>
+        </select>
+        <button class="filter-button">Filter</button>
+      </div>
+    </div>
+
+    <!-- PRODUCTS WILL BE INSERTED HERE BY JS -->
+    <main class="products" id="products-container"></main>
+
+  </div>
+</body>
+
+</html>
